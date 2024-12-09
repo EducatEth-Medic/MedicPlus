@@ -1,0 +1,12 @@
+[submodule "Medic-_Foundry"]
+	path = Medic-_Foundry
+	url = https://github.com/EducatEth-Medic/Medic-_Foundry
+[submodule "MedicPlus-Backtend"]
+	path = MedicPlus-Backtend
+	url = https://github.com/EducatEth-Medic/MedicPlus-Backtend
+[submodule "MedicPlus-Frontend"]
+	path = MedicPlus-Frontend
+	url = https://github.com/EducatEth-Medic/MedicPlus-Frontend
+[submodule "MedicPlus-Mobile"]
+	path = MedicPlus-Mobile
+	url = https://github.com/EducatEth-Medic/MedicPlus-Mobile
