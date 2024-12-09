@@ -90,7 +90,7 @@ Puede verse en Arbiscan: https://sepolia.arbiscan.io/address/0xbfDDB634B62e53dfc
 ![Documentacion de APIs - ejemplo de uso](./res/Documentacion-APIs-ejemplo-de-uso.jpeg)
 
 
-### Frontend web powered by Scaffold-ETH 2
+### Frontend web powered by 🏗 Scaffold-ETH 2
 - **Frontend**: Medic+ se apoya en Scaffold-ETH 2 para desarrollar una interfaz de usuario limpia y amigable
 ![Web Module (Scaffold-ETH)](./res/Web-Module-(Scaffold-ETH).jpeg)
 
