@@ -1,6 +1,6 @@
 # Descripción del proyecto
 
-![alt text](Medic+TuSaludEnTusManos.PNG)
+![alt text](./res/Medic+TuSaludEnTusManos.PNG)
 
 # Medic+
 
@@ -18,7 +18,7 @@ Además, **Medic+** integra un innovador asistente de inteligencia artificial ca
 
 ### OBJETIVO 16 - Paz, justicia e instituciones sólidas
 
-![alt text](ODSsMedicPlus.png)
+![alt text](./res/ODSsMedicPlus.png)
 
 ## Características principales
 
@@ -63,17 +63,17 @@ Además, **Medic+** integra un innovador asistente de inteligencia artificial ca
 
 ### Flujo de Trabajo Gráfico
 
-![alt text](Flujo-MedicPlus.PNG)
+![alt text](./res/Flujo-MedicPlus.PNG)
 
 ### Arquitectura
 
-![alt text](Arquitectura-MedicPlus.jpeg)
+![alt text](./res/Arquitectura-MedicPlus.jpeg)
 
 ### Tests del Smart Contract
 
 - **Foundry Tests**: Medic+ cuenta con un archivo de prueba que cubre las funciones principales del contrato.
 
-![alt text](TestCoverage.PNG)
+![alt text](./res/TestCoverage.PNG)
 
 - **Cobertura de Prueba**: El contrato inteligente ha sido probado exhaustivamente con más de un 85% de cobertura de línea. Esto asegura que las funcionalidades críticas han sido verificadas.
 
@@ -85,14 +85,14 @@ Puede verse en Arbiscan: https://sepolia.arbiscan.io/address/0xbfDDB634B62e53dfc
 
 ### Documentacion de las APIs desarrolladas
 - **APIs Documentation**: Medic+ cuenta con una documentacion de sus APIs para facilitar la adopcion y aporte de los entusiastas
-![Documentacion de APIs](Documentacion-APIs.jpeg)
+![Documentacion de APIs](./res/Documentacion-APIs.jpeg)
 
-![Documentacion de APIs - ejemplo de uso](Documentacion-APIs-ejemplo-de-uso.jpeg)
+![Documentacion de APIs - ejemplo de uso](./res/Documentacion-APIs-ejemplo-de-uso.jpeg)
 
 
 ### Frontend web powered by Scaffold-ETH 2
 - **Frontend**: Medic+ se apoya en Scaffold-ETH 2 para desarrollar una interfaz de usuario limpia y amigable
-![Web Module (Scaffold-ETH)](Web-Module-(Scaffold-ETH).jpeg)
+![Web Module (Scaffold-ETH)](./res/Web-Module-(Scaffold-ETH).jpeg)
 
 ### Tecnologías utilizadas
 
