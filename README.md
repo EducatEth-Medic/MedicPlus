@@ -112,9 +112,13 @@ Puede verse en Arbiscan: https://sepolia.arbiscan.io/address/0xbfDDB634B62e53dfc
 
    ```
 
-2. Descarga el modulo en el que desees colaborar
+2. O descarga el modulo en el que desees colaborar
+   - Foundry: https://github.com/EducatEth-Medic/Medic-_Foundry
+   - Backend: https://github.com/EducatEth-Medic/MedicPlus-Backtend
+   - Web Frontend: https://github.com/EducatEth-Medic/MedicPlus-Frontend
+   - Mobile Frontend: https://github.com/EducatEth-Medic/MedicPlus-Mobile
 
-3. Instala las dependencias:
+4. Instala las dependencias:
    ```bash
    npm install
    ```
@@ -122,8 +126,8 @@ Puede verse en Arbiscan: https://sepolia.arbiscan.io/address/0xbfDDB634B62e53dfc
    ```bash
    yarn install
    ```
-4. Configura las claves para blockchain e IPFS en el archivo .env.
-5. Corre la aplicación:
+5. Configura las claves para blockchain e IPFS en el archivo .env.
+6. Corre la aplicación:
    Back:
    ```bash
    npm run start:dev
